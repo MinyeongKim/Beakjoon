@@ -8,6 +8,8 @@ public class Problem_1110 {
 		int N_temp = N;
 		int cnt = 0;
 		
+		in.close();
+		
 		if(N<0 || N>99) {
 			return;
 		}

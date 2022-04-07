@@ -11,5 +11,7 @@ public class Problem_11021 {
 			int B = in.nextInt();
 			System.out.println("Case #"+i+": "+(A+B));
 		}
+		
+		in.close();
 	}
 }
